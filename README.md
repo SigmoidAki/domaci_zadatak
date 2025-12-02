@@ -2,8 +2,7 @@
 
 ## 1. Домаћи задатак из Техничке документације
 
-using System;
-
+```csharp
 class Program
 {
     static void Main()
@@ -18,6 +17,7 @@ class Program
         Console.WriteLine($"Површина круга: {P}");
     }
 }
+```
 
 
 ## 2. Задатак
